@@ -1,14 +1,20 @@
 # Hi there, I'm Mohammad Erfan 👋
 
-## 🚀 About Me
-I'm a passionate NLP enthusiast with a background in computational linguistics and machine learning. I love building projects that solve real-world problems through the power of language processing.
+🚀 **About Me**
+I’m an interdisciplinary researcher with a BA in Spanish Literature, now pivoting into Data Science and Natural Language Processing (NLP). My work bridges humanities, psychology, and AI — exploring how computational methods can unlock insights from language and human behavior.
 
-## 🛠️ Skills & Tools
-- **Language**: Python
-- **NLP**: NLTK, SpaCy, Hugging Face Transformers
-- **Machine Learning**: Scikit-learn, TensorFlow, PyTorch
-- **Data**: Pandas, NumPy, Matplotlib
+🛠️ **Skills & Tools**
+- **Languages:** Python, SQL  
+- **Data Science:** Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch  
+- **NLP:** NLTK, SpaCy, Hugging Face Transformers  
+- **Visualization:** Matplotlib, Seaborn, Plotly  
 
-## 📫 How to Reach Me
-- LinkedIn: [linkedin.com/in/MohammadErfanRashidi](https://www.linkedin.com/in/mohammad-erfan-rashidi-4a50b0284/)
-- Email: MohammadErfanRashidi@gmail.com
+📌 **Current Focus**
+- Building NLP projects that combine linguistics and psychology  
+- Preparing for a Master’s in Data Science / Computational Linguistics abroad  
+- Expanding my portfolio with real-world datasets and applied research  
+
+📫 **Connect with Me**
+- [LinkedIn](https://www.linkedin.com/in/mohammad-erfan-rashidi-4a50b0284/)  
+- [Kaggle](https://www.kaggle.com/mohammaderfanrashidi)  
+- Email: mohammaderfanrashidi@gmail.com
