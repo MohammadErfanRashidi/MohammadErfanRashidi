@@ -2,8 +2,11 @@
 **Junior Data Scientist**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-mohammaderfanrashidi.github.io-black?style=flat-square&logo=github)](https://mohammaderfanrashidi.github.io)
+
 [![Email](https://img.shields.io/badge/Email-mohammaderfanrashidi%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:mohammaderfanrashidi@gmail.com)
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mohammad-erfan-rashidi-4a50b0284)
+
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp)](https://wa.me/989352170440)
 
 ---
